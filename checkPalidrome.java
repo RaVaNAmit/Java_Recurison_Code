@@ -23,7 +23,9 @@ public class checkPalidrome {
 
     Boolean result = usingRecursion(str1 , 0 , str1.length());
 
-    System.out.print(" The Word is Palidrome :- " +result);
+    System.out.println("The Word is Palidrome or not" );
+
+    System.out.println(" The Word is Palidrome :- " +result);
   }
 
 }
