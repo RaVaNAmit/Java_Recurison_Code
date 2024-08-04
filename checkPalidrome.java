@@ -26,8 +26,6 @@ public class checkPalidrome {
     System.out.println("The Word is Palidrome or not" );
 
     System.out.println(" The Word is Palidrome :- " +result);
-
-    
   }
 
 }
