@@ -23,7 +23,7 @@ public class checkPalidrome {
 
     Boolean result = usingRecursion(str1 , 0 , str1.length());
 
-    System.out.println(" The Word is Palidrome :- " +result);
+    System.out.print(" The Word is Palidrome :- " +result);
   }
 
 }
