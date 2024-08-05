@@ -5,7 +5,7 @@ public class Recursion_QuickSort {
 
     int arr[] = {3 , 4 , 5 , 1 , 2 , 9};
 
-    System.out.println("Hii user 2");
+    System.out.println("Hii user");
     
   }
   
