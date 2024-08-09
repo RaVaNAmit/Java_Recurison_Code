@@ -5,7 +5,15 @@ public class Recursion_QuickSort {
 
     int arr[] = {3 , 4 , 5 , 1 , 2 , 9};
 
-    System.out.println("Hii user");
+    for(int i = 0; i < arr.length; i++ ){
+      
+
+      System.out.print(arr[i] + "->");
+
+    }
+
+    
+    System.out.println();
     
   }
   
