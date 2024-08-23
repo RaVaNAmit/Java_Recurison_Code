@@ -1,21 +1,18 @@
 public class Recursion_QuickSort {
 
+
+
+
+  public static void quicksort(int arr[] , int low , int high){
+
+  }
+
   public static void main(String[] args) {
     
+    int arr[] = { 4 , 6 ,  2 ,  5 ,  7 , 9 , 1 ,  3 };
 
-    int arr[] = {3 , 4 , 5 , 1 , 2 , 9 , 10};
-
-
-
-    for(int i = 0; i < arr.length; i++ ){
-      
-
-      System.out.print(arr[i] + "->");
-
-    }
-
-    System.out.println("Hii");
-    System.out.println();
+    quicksort(arr , 0 , arr.length - 1);
+  
     
   }
   
